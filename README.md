@@ -8,7 +8,7 @@ On the basis of the high geological knowledge gained during the last three decad
 The `data` directory contains all the data needed to build the model. These data are saved in csv files that must be read during model building.
 
 The code can be found in the repository, it can be downloaded as ZIP by clicking in the green Code button. There are three Jupyter notebooks in which the process is fully described. The order in which these notebooks should be read is as follows:
-- Copernicus.ipynb. I
+- Copernicus.ipynb. 
 - 2D geological cross-sections.ipynb
 - 3Dmodel_color.ipynb
 - 3D Bolck.ipynb
