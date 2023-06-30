@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>E1-E2 Calvillo.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00aaaa</color>
+			<width>2.6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00aaaa</color>
+			<width>2.6</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>E1-E2 Calvillo</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.647719585192071,37.90360187767548,0 -1.647177865116434,37.90490267882462,0 -1.645980589721957,37.90567416067608,0 -1.644143012871014,37.90594978955999,0 -1.643980355298803,37.90592933282947,0 -1.643850593698248,37.90590902883395,0 -1.642317360591542,37.90599750177086,0 -1.642213893910019,37.90604157275488,0 -1.640792644683882,37.90615463578443,0 -1.639959398332125,37.90639100250027,0 -1.639036287983704,37.90690796156434,0 -1.637971818829482,37.90809207075335,0 -1.637195663540423,37.90923288780152,0 -1.636645396054426,37.91043562867694,0 -1.636218672691431,37.91196568490017,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

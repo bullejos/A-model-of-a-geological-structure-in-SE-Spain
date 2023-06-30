@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>E1-E2 Palomeque.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00aaaa</color>
+			<width>2.6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00aaaa</color>
+			<width>2.6</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>E1-E2 Palomeque</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.640285340730306,37.90018128848052,0 -1.639436298598775,37.90160553842153,0 -1.637633114440726,37.90270030421005,0 -1.635189988824053,37.90362053847036,0 -1.632801200282189,37.90455448527045,0 -1.630987493785789,37.90512526445565,0 -1.629089368380546,37.90585079966159,0 -1.627526945824962,37.9066091642835,0 -1.626702839818426,37.90750362692422,0 -1.625646370398349,37.90819548106078,0 -1.625565967707114,37.90822129275925,0 -1.623669881483295,37.9089942929906,0 -1.621147578599239,37.9106912617562,0 -1.621037975504529,37.91075307121292,0 -1.620886631747762,37.91080680059723,0 -1.61834582930645,37.91221444111147,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
