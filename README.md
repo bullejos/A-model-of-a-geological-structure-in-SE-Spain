@@ -1,4 +1,4 @@
-# A 3D model of a geological structure in SE Spain
+# A model of a geological structure in SE Spain
 
 In this repository we introduce a Python application for creating a 3D model of an imbricate thrust system. The application uses the traditional geologic information to create an HTML geological map with real topography and a set of geological cross-sections with the essential structural and stratigraphic elements. We also created a model that represents a block 300 meters deep, in which all the geological elements appear.
 
