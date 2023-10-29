@@ -7,7 +7,7 @@ On the basis of the high geological knowledge gained during the last three decad
 ## How to use
 The `data` directory contains all the data needed to build the model. These data are saved in csv files that must be read during model building.
 
-To run the notebooks you need a DEM of the area, we have used eu_dem_v11_E30N10.TIF, this file is too large to upload to the data directory of this repository.
+To run the notebooks you need a DEM of the area, we have used eu_dem_v11_E30N10.TIF, this file is too large to upload to the data directory of this repository. You can download the file at https://spacedata.copernicus.eu/es/collections/copernicus-digital-elevation-model.
 
 The code can be found in the repository, it can be downloaded as ZIP by clicking in the green Code button. There are three Jupyter notebooks in which the process is fully described. The order in which these notebooks should be read is as follows:
 - Copernicus.ipynb. 
