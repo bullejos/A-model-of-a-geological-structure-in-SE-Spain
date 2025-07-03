@@ -30,4 +30,7 @@ To successfully run the notebook, you need to locate it in the same folder as th
 
 Authors:
 
-Manuel Bullejos, Manuel Martín-Martín
+Manuel Bullejos, Manuel Martín-Martín.
+
+This research was supported by the Spanish Ministry of Science and Innovation, research
+project number PID2020-114381GB-I00
